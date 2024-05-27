@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raksha Adhikari</h1>
 <h3 align="center">A passionate tech enthusiast from Nepal.</h3>
-<img align="right" src="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F4055494%2Fscreenshots%2F15215756%2Fmedia%2Fd2b66c4ca0192aa26d103448b3d1518b.gif&tbnid=NUntO8FQoc-57M&vet=12ahUKEwiMi9qzpq6GAxUPxDgGHTPdBG8QMygEegQIARBW..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&docid=S2_fnYEU1a3BSM&w=800&h=600&q=animated%20coding%20gif%20girl&hl=en&ved=2ahUKEwiMi9qzpq6GAxUPxDgGHTPdBG8QMygEegQIARBW">
+<img align="right" src="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismygirlrakshaforsure&label=Profile%20views&color=0e75b6&style=flat" alt="thisismygirlrakshaforsure" /> </p>
 
